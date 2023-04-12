@@ -14,7 +14,9 @@ Here is the app user flow:
 7. User checks leaderboard
 8. User claims prize //not implemented
 
-[Project_internship.pdf](https://github.com/DariusDobocan/QuestAdventure/files/11208187/Project_internship.pdf)
+![Project_internship](https://user-images.githubusercontent.com/91589966/231379048-d2ad0ad0-5d52-49f3-9ffd-72db7b32ad9a.jpg)
+
+
 
 # Tech Stack
 
